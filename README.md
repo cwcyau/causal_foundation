@@ -53,8 +53,6 @@ Upon successful completion of this project, students will be able to:
 |University Research Software Engineer | to be assigned |
 |EIT project mentor | Leonardo Cotta |
 
-University and EIT project mentors will oversee the group projects. Students will be supported by university and EIT research mentors. Students should expect at least one meeting every two weeks with research mentors during the full-time project period.  
-
 ## Relevant Background Reading 
 
 |Title|Link|
