@@ -48,7 +48,7 @@ Upon successful completion of this project, students will be able to:
 
 |Role|Person(s)|
 |----|---------|
-|University project mentor | Yarin Gal |
+|University project mentor | tbc|
 |University research mentor | tbc |
 |University Research Software Engineer | to be assigned |
 |EIT project mentor | Leonardo Cotta |
