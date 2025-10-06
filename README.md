@@ -63,9 +63,15 @@ Experimental investigations and documentation.
 
 Familiarity with large-scale data processing and computational resources.
 
+## Support
 
-
-## EIT Project mentor: Leonardo Cotta
+|Role|Person(s)|
+|----|---------|
+|University project mentor | tbc |
+|University project mentor | tbc|
+|University research mentor | tbc |
+|University Research Software Engineer | to be assigned |
+|EIT project mentor | Leonardo Cotta |
 
 ## Relevant Background Reading
 
