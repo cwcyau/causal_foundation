@@ -9,39 +9,39 @@ The connections between  causal inference and attribution methods like Shapley v
 
 ## Project Aims
 
-To investigate how existing causal inference methodology can be used to support mechanistic interpretability of foundation models, such as large language models (LLMs) or diffusion models.
+- To investigate how existing causal inference methodology can be used to support mechanistic interpretability of foundation models, such as large language models (LLMs) or diffusion models.
 
-To evaluate the strengths and limitations of causal mediation, attention probes, and similar approaches in uncovering internal model mechanisms.
+- To evaluate the strengths and limitations of causal mediation, attention probes, and similar approaches in uncovering internal model mechanisms.
 
-Gain technical familiarity with analyzing the flow of information across neural layers during prediction tasks.
+- Gain technical familiarity with analyzing the flow of information across neural layers during prediction tasks.
 
-Initiate the development and implementation of alternative approaches to leveraging causal principles to mechanistic interpretability.
+- Initiate the development and implementation of alternative approaches to leveraging causal principles to mechanistic interpretability.
 
 ## Learning Objectives
 
 By the end of the project, students will be able to:
 
-Conduct a systematic literature review of existing or related approaches for addressing the challenge.
+- Conduct a systematic literature review of existing or related approaches for addressing the challenge.
 
-Gain foundational understanding of mechanistic interpretability and causal inference methods.
+- Gain foundational understanding of mechanistic interpretability and causal inference methods.
 
-Learn to apply tools such as causal mediation analysis, attention-based probing, and diffusion-based causal discovery to model internals.
+- Learn to apply tools such as causal mediation analysis, attention-based probing, and diffusion-based causal discovery to model internals.
 
-Develop skills in designing controlled interventions and interpreting their effects on model predictions.
+- Develop skills in designing controlled interventions and interpreting their effects on model predictions.
 
-Critically assess current research and identify gaps in causal interpretability approaches.
+- Critically assess current research and identify gaps in causal interpretability approaches.
 
 ## Learning Outcomes
 
 Upon successful completion of this project, students will be able to:
 
-Articulate the theoretical rationale for employing causal inference in mechanistic interpretability research.
+- Articulate the theoretical rationale for employing causal inference in mechanistic interpretability research.
 
-Formulate and empirically test hypotheses regarding mechanisms underpinning LLM / diffusion model predictions.
+- Formulate and empirically test hypotheses regarding mechanisms underpinning LLM / diffusion model predictions.
 
-Demonstrate the ability to map and evaluate causal dependencies among internal model components.
+- Demonstrate the ability to map and evaluate causal dependencies among internal model components.
 
-Compare and contrast multiple causal interpretability techniques, providing evidence-based justifications for methodological choices.
+- Compare and contrast multiple causal interpretability techniques, providing evidence-based justifications for methodological choices.
 
 ## Skills Required/Prerequisites
 
