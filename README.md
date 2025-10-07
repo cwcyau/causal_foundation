@@ -45,23 +45,23 @@ Upon successful completion of this project, students will be able to:
 
 ## Skills Required/Prerequisites
 
-Deep learning fundamentals and experience with neural network inference.
+- Deep learning fundamentals and experience with neural network inference.
 
-Python programming proficiency with ML frameworks (PyTorch/TensorFlow).
+- Python programming proficiency with ML frameworks (PyTorch/TensorFlow).
 
-A basic understanding of causal inference concepts.
+- A basic understanding of causal inference concepts.
 
 ## Skills to be developed and supporting learning
 
-Advanced understanding of causal inference.
+- Advanced understanding of causal inference.
 
-Experience with different approaches to mechanistic interpretability using open-source models.
+- Experience with different approaches to mechanistic interpretability using open-source models.
 
-Group software development, workflows and good engineering practices. 
+- Group software development, workflows and good engineering practices. 
 
-Experimental investigations and documentation.
+- Experimental investigations and documentation.
 
-Familiarity with large-scale data processing and computational resources.
+- Familiarity with large-scale data processing and computational resources.
 
 ## Support
 
